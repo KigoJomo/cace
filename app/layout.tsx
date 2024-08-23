@@ -16,7 +16,7 @@ export default function RootLayout({
     <html lang="en">
       <body className="flex p-6 gap-6">
         <SideBar />
-        <main className="w-[92.5%] border rounded-3xl">{children}</main>
+        <main className="w-full">{children}</main>
       </body>
     </html>
   )
