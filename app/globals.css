@@ -8,6 +8,7 @@
   --color-light-gray: #E6E7E9;
   --color-medium-gray: #A8ACB7;
   --color-dark-blue: #0B1326;
+  --base-font-size: clamp(.9rem, 1vw + .25rem, 2.25rem);
 }
 
 * {
